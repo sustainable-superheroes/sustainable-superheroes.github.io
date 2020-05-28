@@ -5,3 +5,15 @@ body {
 div,p {
 font-family: futura,roboto,helvetica;
 }
+a:link {
+  color: yellow;
+}
+a:visited {
+  color: yellow;
+}
+a:hover {
+  background-color: orange;
+}
+a:active {
+  background-color: yellow;
+}
