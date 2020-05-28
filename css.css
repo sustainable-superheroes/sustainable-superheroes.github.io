@@ -6,13 +6,13 @@ div,p {
 font-family: futura,roboto,helvetica;
 }
 a:link {
-  color: yellow;
+  color: orange;
 }
 a:visited {
   color: yellow;
 }
 a:hover {
-  background-color: orange;
+  background-color: OrangeRed;
 }
 a:active {
   background-color: yellow;
