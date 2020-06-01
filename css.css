@@ -17,3 +17,6 @@ a:hover {
 a:active {
   background-color: yellow;
 }
+#ib {
+  float: right;
+}
