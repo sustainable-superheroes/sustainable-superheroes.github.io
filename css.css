@@ -3,7 +3,7 @@ body,* {
   background-color: LightBlue;
 }
 div,p {
-font-family: futura,roboto,;
+font-family: futura,roboto;
 }
 a:link {
   color: orange;
