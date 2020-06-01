@@ -1,6 +1,7 @@
 
-body,* {
+body {
   background-color: yellow;
+  font-family: futura,roboto;
 }
 div,p {
 font-family: futura,roboto;
@@ -19,4 +20,7 @@ a:active {
 }
 #ib {
   float: right;
+  border-style: ridge;
+  border-color: green;
+  border-size: 12px;
 }
