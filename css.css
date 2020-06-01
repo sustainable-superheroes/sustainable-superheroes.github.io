@@ -1,9 +1,9 @@
 
-body {
-  background-color: rgb(103,255,80);
+body,* {
+  background-color: LightBlue;
 }
 div,p {
-font-family: futura,roboto,helvetica;
+font-family: futura,roboto,;
 }
 a:link {
   color: orange;
