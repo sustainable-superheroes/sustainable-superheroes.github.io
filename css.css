@@ -1,6 +1,6 @@
 
 body,* {
-  background-color: LightBlue;
+  background-color: yellow;
 }
 div,p {
 font-family: futura,roboto;
@@ -9,13 +9,13 @@ a:link {
   color: orange;
 }
 a:visited {
-  color: yellow;
+  color: green;
 }
 a:hover {
   background-color: OrangeRed;
 }
 a:active {
-  background-color: yellow;
+  background-color: LightBlue;
 }
 #ib {
   float: right;
