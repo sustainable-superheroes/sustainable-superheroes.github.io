@@ -1,5 +1,5 @@
 body {
-  background-color: yellow;
+  background-color: LightBlue;
   font-family: futura,roboto;
 }
 div,p {
@@ -7,11 +7,11 @@ font-family: futura,roboto;
 }
 h1,h2,h3,h4,h5,h6 {font-family: futura,roboto;}
 a:link {
-  color: orange;
+  color: green;
     font-family: futura,roboto;
 }
 a:visited {
-  color: green;
+  color: blue;
     font-family: futura,roboto;
 }
 a:hover {
