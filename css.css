@@ -30,3 +30,49 @@ a:active {
   border-color: green;
   border-size: 12px;
 }
+/* This is the code that does menu! */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+p{
+  font-family: futura,roboto,helvetica;
+}
+
+/* Style the header */
+.header {
+  background-color: #f1f1f1;
+  padding: 20px;
+  text-align: center;
+}
+
+/* Style the top navigation bar */
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+/* Style the topnav links */
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f3;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change color on hover */
+.topnav a:hover {
+  background-color: #2dd;
+  color: black;
+}
+/* MY TABLE Stuff */
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
