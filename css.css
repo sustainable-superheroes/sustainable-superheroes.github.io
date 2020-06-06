@@ -1,6 +1,7 @@
 body {
   background-color: LightBlue;
   font-family: futura,roboto;
+  padding: 10px;
 }
 div,p {
 font-family: futura,roboto;
