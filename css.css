@@ -12,11 +12,11 @@ h1,h2,h3,h4,h5,h6 {
 font-family: 'Roboto', sans-serif;
 }
 a:link {
-  color: green;
+  color: MediumSpringGreen;
 font-family: 'Roboto', sans-serif;
 }
 a:visited {
-  color: blue;
+  color: MediumSpringGreen;
 font-family: 'Roboto', sans-serif;
 }
 a:hover {
