@@ -70,12 +70,7 @@ font-family: 'Roboto', sans-serif;
 
 /* Change color on hover */
 .topnav a:hover {
-  background-color: #2dd;
+  background-color: green;
   color: black;
-}
-/* MY TABLE Stuff */
-table, th, td {
-  border: 1px solid black;
-  border-collapse: collapse;
 }
 
