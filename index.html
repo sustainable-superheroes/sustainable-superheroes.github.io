@@ -27,7 +27,7 @@
 	      <a href="about/contact us">contact me</a>
 	      <a href="https://henryruss2.github.io">henryruss2 (portal for my websites)</a>
 	        <a href="https://sustainable-superheroes.github.io/recipes">recipes</a>
-	      <a href="school-lunches" id="sl" class="sl">school lunches</a>
+	      <a href="school-lunches" id="sl" onmouseover="document.getElementById("sl").innerHTML = "<a href="school-lunches">what to do if your school only serves lunches with meat</a>">school lunches</a>
 	      <a href="meatless-mondays">meatless mondays</a>
       </div>
 
@@ -50,29 +50,6 @@
     welcome.addEventListener( "mouseover",onHeaderMouseOver);
 	var welcome = document.getElementById("text");
 	// 1. Find and store the element we want to listen to events on.
-    var expand = document.getElementById("sl");
-    // 2. Define the function that will respond to the event.
-    // callback 
-    var onSlMouseOver = function() {
-        expand.innerHTML = "<a href="school-lunches">what to do if your school only offers lunches with meat</a>";
-	    
-    };
-    // 3. Add the event listener for the element and function
-    // anonymous "inline"
-    welcome.addEventListener( "mouseover",onSlMouseOver);
-	var expand = document.getElementById("sl");
-		// 1. Find and store the element we want to listen to events on.
-    var expandy = document.getElementByClassName("sl");
-    // 2. Define the function that will respond to the event.
-    // callback 
-    var onSlMouseOut = function() {
-        expandy.innerHTML = "<a href="school-lunches.html">school lunches</a>";
-	    
-    };
-    // 3. Add the event listener for the element and function
-    // anonymous "inline"
-    welcome.addEventListener( "mouseout",onSlMouseOut);
-	var expandy = document.getElementById("sl");
     </script>
 </body>
 </html>
