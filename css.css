@@ -1,12 +1,12 @@
+html {border-style: solid;border-color: blue;border-size: 10px;}
 body {
   background-color: LightBlue;
 font-family: 'Roboto', sans-serif;
-
 }
 div,p {
 font-family: 'Roboto', sans-serif;  
 }
-article {padding: 8px;}
+article {padding: 12px;}
 h1,h2,h3,h4,h5,h6 {
 font-family: 'Roboto', sans-serif;
 }
