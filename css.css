@@ -3,11 +3,10 @@ body {
 font-family: 'Roboto', sans-serif;
 
 }
-div,p,article {
-font-family: 'Roboto', sans-serif;
-padding: 8px;
-  
+div,p {
+font-family: 'Roboto', sans-serif;  
 }
+article {padding: 8px;}
 h1,h2,h3,h4,h5,h6 {
 font-family: 'Roboto', sans-serif;
 }
