@@ -75,7 +75,7 @@ p {
     background-color: green;
     color: #000;
 }
-.PIN_1591736106610_button_pin PIN_1591736106610_save PIN_1591736106610_tall {
+#pin {
     float: right;
 }
 
