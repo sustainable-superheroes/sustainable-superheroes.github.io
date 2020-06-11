@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for http://sustainable-superheroes.github.io/</title>
+  <link>http://sustainable-superheroes.github.io/</link>
+
+<item>
+     <link>https://sustainable-superheroes.github.io/</link>
+     <title>
+ sustainable superheroes
+ </title>
+     <description>sustainable superheroes is a blog about eating sustainably</description>
+     <ror:updatePeriod>daily</ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://sustainable-superheroes.github.io/index</link>
+     <title>
+ sustainable superheroes
+ </title>
+     <description>sustainable superheroes is a blog about eating sustainably</description>
+     <ror:updatePeriod>daily</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://sustainable-superheroes.github.io/going-flexitarian</link>
+     <title>
+going flexitarian | sustainable superheros
+</title>
+     <description>learn how to go flexitarian with sustainable superheros</description>
+     <ror:updatePeriod>daily</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://sustainable-superheroes.github.io/going-insectitarian</link>
+     <title>
+going insectitarian | sustainable superheros
+</title>
+     <description>learn how to become insectitarian with sustainable superheros</description>
+     <ror:updatePeriod>daily</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://sustainable-superheroes.github.io/beyond-impossible</link>
+     <title>
+Beyond and Impossible meat | sustainable superheros
+</title>
+     <description>
+Beyond and Impossible meat | sustainable superheros
+</description>
+     <ror:updatePeriod>daily</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://sustainable-superheroes.github.io/hidden-meat</link>
+     <title>
+hidden meat | sustainable superheros
+</title>
+     <description>learn where hidden meat is with sustainable superheros</description>
+     <ror:updatePeriod>daily</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://sustainable-superheroes.github.io/about/about</link>
+     <title>
+about us
+</title>
+     <description>about us</description>
+     <ror:updatePeriod>daily</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://sustainable-superheroes.github.io/recipes/</link>
+     <title>recipes | sustainable superheros</title>
+     <description>recipes from sustainable superheros</description>
+     <ror:updatePeriod>daily</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://sustainable-superheroes.github.io/school-lunches</link>
+     <title>
+school lunches | sustainable superheros
+</title>
+     <description>learn where hidden meat is with sustainable superheros</description>
+     <ror:updatePeriod>daily</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://sustainable-superheroes.github.io/meatless-mondays</link>
+     <title>
+meatless mondays | sustainable superheros
+</title>
+     <description>learn how to go flexitarian with sustainable superheros</description>
+     <ror:updatePeriod>daily</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://sustainable-superheroes.github.io/recipes/bread-crusts</link>
+     <title>
+what to do with bread crusts | sustainable superheroes
+</title>
+     <description>veggie burgers from sustainable superheroes</description>
+     <ror:updatePeriod>daily</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://sustainable-superheroes.github.io/going-flexitarian.html</link>
+     <title>
+going flexitarian | sustainable superheros
+</title>
+     <description>learn how to go flexitarian with sustainable superheros</description>
+     <ror:updatePeriod>daily</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://sustainable-superheroes.github.io/hidden-meat.html</link>
+     <title>
+hidden meat | sustainable superheros
+</title>
+     <description>learn where hidden meat is with sustainable superheros</description>
+     <ror:updatePeriod>daily</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://sustainable-superheroes.github.io/recipes/veggie-burgers</link>
+     <title>
+veggie burgers | sustainable superheroes
+</title>
+     <description>veggie burgers from sustainable superheroes</description>
+     <ror:updatePeriod>daily</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  
