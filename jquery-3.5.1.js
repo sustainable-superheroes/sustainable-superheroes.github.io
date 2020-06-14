@@ -10870,3 +10870,6 @@ if ( typeof noGlobal === "undefined" ) {
 
 return jQuery;
 } );
+var SS_alert = function(alert) {
+  window.alert(alert);
+};
