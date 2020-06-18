@@ -54,6 +54,9 @@ body {
 p {
     font-family: "Roboto", sans-serif;
 }
+#text {font-family: "Roboto"}
+ol {font-family: "Roboto"}
+li {font-family: "Roboto"}
 .header {
     background-color: #f1f1f1;
     padding: 20px;
