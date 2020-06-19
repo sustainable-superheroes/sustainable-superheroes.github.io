@@ -51,10 +51,10 @@ a:active {
 body {
     margin: 0;
 }
+#text {font-family: "Roboto"}
 p {
     font-family: "Roboto", sans-serif;
 }
-#text {font-family: "Roboto"}
 ol {font-family: "Roboto"}
 li {font-family: "Roboto"}
 .header {
