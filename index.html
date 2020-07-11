@@ -1,6 +1,7 @@
 <!DOCTYPE html>
  <html lang="en-us">
  <head>
+	  <script src="https://www.google.com/recaptcha/api.js?render=6LeyR7AZAAAAAN83zriKv5hoW7M1f22yJsRoS6vs"></script>
 	 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="alternate icon" href="/favicon.ico">
 <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
@@ -15,6 +16,19 @@
 	 <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <body>
+	    <script>
+      function onClick(e) {
+        e.preventDefault();
+        grecaptcha.ready(function() {
+          grecaptcha.execute('6LeyR7AZAAAAAN83zriKv5hoW7M1f22yJsRoS6vs', {action: 'submit'}).then(function(token) {
+              //nothing 2 do here!
+									      
+          });
+        });
+      }
+  </script>
+	
+	 
 <div class="header">
         <h1>Sustainable Superheroes</h1>
       </div>
