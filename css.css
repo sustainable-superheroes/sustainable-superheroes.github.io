@@ -41,6 +41,9 @@ a:active {
     background-color: LightBlue;
     font-family: "Roboto", sans-serif;
 }
+.recipe {
+  visibility: hidden;
+}
 #ib {
     float: right;
     border-style: ridge;
