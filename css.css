@@ -43,6 +43,7 @@ a:active {
 }
 .recipe {
   visibility: hidden;
+  height: 0px;
 }
 #ib {
     float: right;
