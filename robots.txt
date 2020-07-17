@@ -1,0 +1,6 @@
+user-agent: *
+disallow: *.exe
+disallow: *.svg
+disallow: plantpuns/
+disallow: googleda810c2a86c95fcf.html
+disallow: 404.*
