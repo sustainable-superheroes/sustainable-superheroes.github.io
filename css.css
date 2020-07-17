@@ -57,8 +57,8 @@ body {
 p {
     font-family: "Roboto", sans-serif;
 }
+li {font-family: "Roboto", sans-serif}
 ol {font-family: "Roboto"}
-li {font-family: "Roboto"}
 .header {
     background-color: #f1f1f1;
     padding: 20px;
@@ -83,7 +83,6 @@ li {font-family: "Roboto"}
 #pin {
     float: right;
 }
-li {font-family: "Roboto"}
 /* The Modal (background) */
 .modal {
   display: none; /* Hidden by default */
