@@ -46,6 +46,7 @@ a:active {
     border-style: ridge;
     border-color: green;
     border-size: 12px;
+    height: 300px;
 }
 * {
     box-sizing: border-box;
